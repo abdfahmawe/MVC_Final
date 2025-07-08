@@ -1,0 +1,33 @@
+﻿@model List<category>
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th style="width: 10px">Id</th>
+                    <th>Name</th>
+                    <th>delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td> <a href="/Admin/Home/Delete/@item.Id" class="btn  btn-danger">delete</a></td>
+                        <td> <a href="/Admin/Home/Update/@item.Id" class="btn  btn-info">Update</a></td>
+
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+    </body>
+    </html>
