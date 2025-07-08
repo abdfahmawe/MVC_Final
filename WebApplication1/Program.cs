@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Builder;
+
 namespace WebApplication1
 {
     public class Program
@@ -15,25 +17,24 @@ namespace WebApplication1
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
             app.UseHttpsRedirection();
-            app.UseRouting();
-
-            app.UseAuthorization();
             app.UseStaticFiles();
+            app.UseRouting();
+            app.UseAuthorization();
 
-            app.MapAreaControllerRoute(
-     name: "admin",
-     areaName: "Admin",
-     pattern: "Admin/{controller=Home}/{action=Index}/{id?}");
+            // Area route (Admin / User / etc.)
+            app.MapControllerRoute(
+                name: "areas",
+                pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
-            app.MapAreaControllerRoute(
-                name: "user",
-                areaName: "User",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+            // Default route: open /User/Home/Index by default
+            app.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}",
+                defaults: new { area = "User" });
 
             app.Run();
         }

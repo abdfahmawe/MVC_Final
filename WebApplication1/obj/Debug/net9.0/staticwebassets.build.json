@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pGJdqoL3ZA8Z6htxodb7jRZItpXU2JXO8XifxqZtcFo=",
+  "Hash": "3Ah4i2trs6F5pfS+kvkJMZgjj2fPpnvQxVtzNsBiIS0=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -561,6 +561,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\c26kvyudi6-050gf1li0j.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/styles#[.{fingerprint=050gf1li0j}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "grqtai8pf6",
+      "Integrity": "vL4o7MHF6I0YjmoOe8w5x5X7ulDhqoikVBs1EFXr5Sg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\c2c1yxbmrg-lcd1t2u6c8.gz",
@@ -1529,6 +1550,27 @@
       "OriginalItemSpec": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+      "Identity": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\xxj88f5tvt-devepoo3hg.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "Image/favicon#[.{fingerprint=devepoo3hg}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\Image\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j3fujmqth6",
+      "Integrity": "75JECphqLOYUqUSmszOMzYIQcdgDgtGzaeuEBWX8E50=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\Image\\favicon.ico"
+    },
+    {
       "Identity": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\z068dedv35-mrlpezrjn3.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -1760,6 +1802,27 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\styles.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "050gf1li0j",
+      "Integrity": "TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -1800,6 +1863,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Image\\AdminLTELogo.png"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\Image\\favicon.ico",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "Image/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "devepoo3hg",
+      "Integrity": "ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\Image\\user2-160x160.jpg",
@@ -4764,6 +4848,304 @@
       ]
     },
     {
+      "Route": "css/styles.050gf1li0j.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\c26kvyudi6-050gf1li0j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000033435870"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29907"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vL4o7MHF6I0YjmoOe8w5x5X7ulDhqoikVBs1EFXr5Sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "050gf1li0j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.050gf1li0j.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "050gf1li0j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.050gf1li0j.css.gz",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\c26kvyudi6-050gf1li0j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vL4o7MHF6I0YjmoOe8w5x5X7ulDhqoikVBs1EFXr5Sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "050gf1li0j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vL4o7MHF6I0YjmoOe8w5x5X7ulDhqoikVBs1EFXr5Sg="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\c26kvyudi6-050gf1li0j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000033435870"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29907"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vL4o7MHF6I0YjmoOe8w5x5X7ulDhqoikVBs1EFXr5Sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\c26kvyudi6-050gf1li0j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vL4o7MHF6I0YjmoOe8w5x5X7ulDhqoikVBs1EFXr5Sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vL4o7MHF6I0YjmoOe8w5x5X7ulDhqoikVBs1EFXr5Sg="
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\ixpe6lrf0h-61n19gt1b8.gz",
       "Selectors": [
@@ -5140,6 +5522,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-uSHDQ4Rtli0E2sYzmikeN1+J4tJuifs97R966DD21FY="
+        }
+      ]
+    },
+    {
+      "Route": "Image/favicon.devepoo3hg.ico",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\xxj88f5tvt-devepoo3hg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000452284034"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2210"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"75JECphqLOYUqUSmszOMzYIQcdgDgtGzaeuEBWX8E50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "Image/favicon.devepoo3hg.ico",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\Image\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "Image/favicon.devepoo3hg.ico.gz",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\xxj88f5tvt-devepoo3hg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"75JECphqLOYUqUSmszOMzYIQcdgDgtGzaeuEBWX8E50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-75JECphqLOYUqUSmszOMzYIQcdgDgtGzaeuEBWX8E50="
+        }
+      ]
+    },
+    {
+      "Route": "Image/favicon.ico",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\xxj88f5tvt-devepoo3hg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000452284034"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2210"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"75JECphqLOYUqUSmszOMzYIQcdgDgtGzaeuEBWX8E50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "Image/favicon.ico",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\Image\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "Image/favicon.ico.gz",
+      "AssetFile": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\xxj88f5tvt-devepoo3hg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"75JECphqLOYUqUSmszOMzYIQcdgDgtGzaeuEBWX8E50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-75JECphqLOYUqUSmszOMzYIQcdgDgtGzaeuEBWX8E50="
         }
       ]
     },

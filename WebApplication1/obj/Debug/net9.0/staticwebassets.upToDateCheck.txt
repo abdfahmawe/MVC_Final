@@ -23,6 +23,7 @@ C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\css\styles.css
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
@@ -68,6 +69,7 @@ C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\js\bootstrap.bundle.min.js.map
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\Image\favicon.ico
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
@@ -77,8 +79,10 @@ wwwroot\css\adminlte.min.css.map
 wwwroot\css\all.min.css
 wwwroot\css\OverlayScrollbars.min.css
 wwwroot\css\site.css
+wwwroot\css\styles.css
 wwwroot\favicon.ico
 wwwroot\Image\AdminLTELogo.png
+wwwroot\Image\favicon.ico
 wwwroot\Image\user2-160x160.jpg
 wwwroot\js\adminlte.min.js
 wwwroot\js\adminlte.min.js.map

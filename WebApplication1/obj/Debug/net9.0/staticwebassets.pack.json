@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Image\\AdminLTELogo.png"
     },
     {
+      "Id": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\Image\\favicon.ico",
+      "PackagePath": "staticwebassets\\Image\\favicon.ico"
+    },
+    {
       "Id": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\Image\\user2-160x160.jpg",
       "PackagePath": "staticwebassets\\Image\\user2-160x160.jpg"
     },
@@ -31,6 +35,10 @@
     {
       "Id": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
       "Id": "C:\\Users\\hp\\Documents\\asp11\\mvc\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
