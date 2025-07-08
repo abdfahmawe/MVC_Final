@@ -351,3 +351,4 @@ C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\bin\Deb
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Documents\asp11\mvc\Projects\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json
